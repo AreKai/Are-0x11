@@ -12,6 +12,7 @@ The 0x11-th Are party.
 
 ### 参加
  - @naotaco
+ - @akiroom
 
 ### 日程調整
 
